@@ -1,0 +1,3 @@
+/dvbscan
+dvbscan_*.log
+/tests/fakedvb.so
